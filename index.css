@@ -1,0 +1,19 @@
+h1 {
+    font-size: 50px;
+    color: darkorchid;
+}
+p {
+    font-size: 30px;
+    color: rgb(219, 65, 127);
+}
+.output {
+    color: blue;
+}
+button {
+    font-size: 30px;
+    color: aqua;   
+}
+a {
+    font-size: 35px;
+    color: black;
+}
